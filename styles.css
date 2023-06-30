@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+body {
+    background-color: rgb(250, 255, 223);
+  }
+h1 {
+    color: rgb(18, 18, 18);
+    background-color: rgb(250, 255, 223);
+    text-align: center;
+    font-size: 54px;
+    font-family: Roboto;
+}
+
+.Game1Image {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  width: 400px;
+  border-radius: 4px;
+}
+
+.Game2Image {
+  position: absolute;
+  top: 100px;
+  left: 755px;
+  width: 400px;
+  border-radius: 4px;
+}
+
+.Game3Image {
+  position: absolute;
+  top: 100px;
+  right: 100px;
+  width: 400px;
+  border-radius: 4px;
+}
+
+#Game1DescText
+{
+    position: absolute;
+    top: 600px;
+    left: 109px;
+    background-color: rgba(25, 25, 25, 0.1);
+    font-size: 20px;
+    color: rgb(18, 18, 18);
+    width: 380px;
+    border: 2px solid;
+    border-color: rgba(25, 25, 25, 0.2);
+    word-wrap: break-word; 
+
+}
+
+#Game1TitleText
+{
+    position: absolute;
+    text-align: center;
+    top: 520px;
+    left: 109px;
+    background-color: rgba(25, 25, 25, 0.1);
+    font-size: 40px;
+    color: rgb(18, 18, 18);
+    width: 380px;
+    border: 2px solid;
+    border-color: rgba(25, 25, 25, 0.2);
+    word-wrap: break-word; 
+
+}
+
+#Game1RequireText
+{
+    position: absolute;
+    text-align: center;
+    top: 935px;
+    left: 109px;
+    background-color: rgba(25, 25, 25, 0.1);
+    font-size: 20px;
+    color: rgb(18, 18, 18);
+    width: 380px;
+    border: 2px solid;
+    border-color: rgba(25, 25, 25, 0.2);
+    word-wrap: break-word; 
+
+}
+
+#Game2DescText
+{
+    position: absolute;
+    top: 600px;
+    left: 763px;
+    background-color: rgba(25, 25, 25, 0.1);
+    font-size: 20px;
+    color: rgb(18, 18, 18);
+    width: 380px;
+    border: 2px solid;
+    border-color: rgba(25, 25, 25, 0.2);
+    word-wrap: break-word; 
+
+}
+
+#Game2TitleText
+{
+    position: absolute;
+    text-align: center;
+    top: 520px;
+    left: 763px;
+    background-color: rgba(25, 25, 25, 0.1);
+    font-size: 40px;
+    color: rgb(18, 18, 18);
+    width: 380px;
+    border: 2px solid;
+    border-color: rgba(25, 25, 25, 0.2);
+    word-wrap: break-word; 
+
+}
+
+#Game2RequireText
+{
+    position: absolute;
+    text-align: center;
+    top: 935px;
+    left: 763px;
+    background-color: rgba(25, 25, 25, 0.1);
+    font-size: 20px;
+    color: rgb(18, 18, 18);
+    width: 380px;
+    border: 2px solid;
+    border-color: rgba(25, 25, 25, 0.2);
+    word-wrap: break-word; 
+
+}
+
+#Game3DescText
+{
+    position: absolute;
+    top: 600px;
+    right: 109px;
+    background-color: rgba(25, 25, 25, 0.1);
+    font-size: 20px;
+    color: rgb(18, 18, 18);
+    width: 380px;
+    border: 2px solid;
+    border-color: rgba(25, 25, 25, 0.2);
+    word-wrap: break-word; 
+
+}
+
+#Game3TitleText
+{
+    position: absolute;
+    text-align: center;
+    top: 520px;
+    right: 109px;
+    background-color: rgba(25, 25, 25, 0.1);
+    font-size: 40px;
+    color: rgb(18, 18, 18);
+    width: 380px;
+    border: 2px solid;
+    border-color: rgba(25, 25, 25, 0.2);
+    word-wrap: break-word; 
+
+}
+
+#Game3RequireText
+{
+    position: absolute;
+    text-align: center;
+    top: 935px;
+    right: 109px;
+    background-color: rgba(25, 25, 25, 0.1);
+    font-size: 20px;
+    color: rgb(18, 18, 18);
+    width: 380px;
+    border: 2px solid;
+    border-color: rgba(25, 25, 25, 0.2);
+    word-wrap: break-word; 
+
+}
